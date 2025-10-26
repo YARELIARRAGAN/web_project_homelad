@@ -1,0 +1,25 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    width: 830px;
+    margin: 92px 302px 92px 142px;
+}
+.intro__title {
+    font-weight: 900;
+    font-size: 54px;
+    line-height: calc(58 / 54);
+    margin-bottom: 39.98px;
+}
+.intro__phrase {
+    font-size: 24px;
+    margin-bottom:10px;
+}
+.intro__author {
+    font-size: 24px;
+    line-height: calc(34 / 24);
+    margin-bottom: 31.99px;
+    text-align: right;
+}
+.intro__text {
+    line-height: 1.63;
+}

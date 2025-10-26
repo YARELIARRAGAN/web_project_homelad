@@ -1,0 +1,16 @@
+@import url(../vendor/normalize.css);
+
+/* Globales */
+@import url(../blocks/pages.css);
+
+/* Header */
+@import url(../blocks/header.css);
+
+/* Lead */
+@import url(../blocks/lead.css);
+
+/* Intro */
+@import url(../blocks/intro.css);
+
+/* footer */
+@import url(../blocks/footer.css);
