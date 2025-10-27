@@ -1,4 +1,5 @@
 @font-face {
-    font-family:"Inter"sans-serif;
-    src: url(/vendor/fonts/web/inter.css);
+    font-family:"Inter";
+    src: url(/vendor/fonts/Inter-Black.woff2) format("woff2"),
+        url(/vendor/fonts/Inter-Medium.woff2) format("woff2");
 }
