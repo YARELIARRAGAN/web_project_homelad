@@ -10,7 +10,7 @@ a {
     margin: 0;
 }
 
-.pages {
+.page {
     background-color: #2a2c2f;
     font-weight: 400;
     font-size: 16px;
@@ -21,14 +21,14 @@ a {
     box-sizing: border-box;
 }
 @media screen and (min-width: 1280px) {
-    .pages {
+    .page {
         max-width: 1280px;
         min-width: 1024px;
         margin: 0 auto;
     }
 }
 @media screen and (max-width: 1024px){
-    .pages {
+    .page {
         margin: 0;
     }
 }

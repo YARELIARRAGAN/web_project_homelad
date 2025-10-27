@@ -3,7 +3,7 @@
 /* Fuente */
 @import url(../vendor/fonts.css);
 /* Globales */
-@import url(../blocks/pages.css);
+@import url(../blocks/page.css);
 
 /* Header */
 @import url(../blocks/header.css);
