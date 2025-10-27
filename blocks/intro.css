@@ -1,7 +1,7 @@
 .intro {
     display: flex;
     flex-direction: column;
-    width: 830px;
+    width: 64.8%;
     margin: 92px 302px 92px 142px;
 }
 .intro__title {
@@ -22,4 +22,19 @@
 }
 .intro__text {
     line-height: 1.63;
+}
+@media screen and (max-width: 1024px) {
+    .intro {
+        width: 93.75%;
+        margin: 90px 24px 88px 24px;
+    }
+    .intro__title {
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 544px) {
+    .intro {
+        width: 90%;
+        margin: 64px 16px ;
+    }
 }
