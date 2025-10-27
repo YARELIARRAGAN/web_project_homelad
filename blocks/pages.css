@@ -9,10 +9,7 @@ h4,
 a {
     margin: 0;
 }
-:root {
-    font-family: Inter, sans-serif;
-    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
-  }
+
 .pages {
     background-color: #2a2c2f;
     font-weight: 400;
