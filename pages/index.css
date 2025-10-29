@@ -1,5 +1,8 @@
 @import url(../vendor/normalize.css);
 
+/* Fuentes */
+@import url(../vendor/fonts.css);
+
 /* Globales */
 @import url(../blocks/page.css);
 
