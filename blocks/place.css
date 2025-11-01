@@ -4,7 +4,7 @@
     grid-template-areas: 
                         "title credits"
                         "img description"
-                        "button description"
+                        "button description2"
     ;
     grid-auto-rows: minmax(46px);
     gap: 48px 40px;
@@ -72,8 +72,9 @@
     grid-area: description;
     font-size: 18px;
     line-height: 1.63;
-     grid-row: 2 / 4;
+     grid-row: 2 / 5;
 }
+
 @media screen and (max-width: 1024px) {
     .place__title {
         font-size: 42pz;
