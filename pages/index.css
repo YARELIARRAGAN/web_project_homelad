@@ -20,5 +20,9 @@
 
 /* Places */
 @import url(../blocks/places.css);
+
+/* Places */
+@import url(../blocks/place.css);
+
 /* footer */
 @import url(../blocks/footer.css);
