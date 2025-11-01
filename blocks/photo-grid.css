@@ -1,0 +1,22 @@
+.photo-grid {
+    display: grid;
+    width: 92.5%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin: 0 auto;
+}
+.photo-grid__item {
+   width: 100%;
+}
+@media screen and (max-width: 1024px) {
+    .photo-grid {
+        width: 93.7%;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width: 544px) {
+    .photo-grid {
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+}
